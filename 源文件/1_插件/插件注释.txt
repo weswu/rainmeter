@@ -1,0 +1,7 @@
+安装这个皮肤的时候一定要把下面的
+
+Plugins：
+MusicPlayer.dll
+
+打上勾，最好都打上就完事了
+（注：安装这个只是为了安装MusicPlayer.dll这个插件，对大家来说比较方便）
